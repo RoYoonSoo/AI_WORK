@@ -122,5 +122,5 @@ def crawl_all(webtoon_id, start_ep, end_ep, week, delay=2):
 
 # ✅ 실행 예시
 if __name__ == "__main__":
-    crawl_all(webtoon_id=750826, start_ep=50, end_ep=80, week="finish")
+    crawl_all(webtoon_id=183559, start_ep=462, end_ep=500, week="finish")
 
